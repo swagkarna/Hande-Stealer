@@ -21,5 +21,6 @@
     pip install getmac 
  ```
 # Compile To Exe 
-## Run compile.bat to convert file to exe
+## Run compile.bat to convert file to exe...The size of exe file will be quite larger . If you need to produce smaller file then use compile_lite.bat ...But The screenshot option is removed in lighter version
 
+# Note :
