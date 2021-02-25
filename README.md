@@ -37,4 +37,4 @@
 # Discalimer ::
 ### You this only for educational Purpose...I am not responsibe for your actions...Stay Safe !!! Stay Legal !!!
 ## Cresits ::
-### Thanks to Vazzy.... , 
+### Thanks to Vazzy.... , and Kram.. 
