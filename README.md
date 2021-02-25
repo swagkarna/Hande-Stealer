@@ -19,6 +19,9 @@
     pip install pyinstaller==4.0
     pip install dhooks
     pip install getmac 
+    pip install json
+    pip install datetime
+    pip install requests
  ```
 ## Compile To Exe 
 ### Run compile.bat to convert file to exe...The size of exe file will be quite larger . If you need to produce smaller file then use compile_lite.bat ...But The screenshot option is removed in lighter version
@@ -33,3 +36,5 @@
 <img src="https://raw.githubusercontent.com/swagkarna/Hande-Stealer/main/img%20(2).png"></img>
 # Discalimer ::
 ### You this only for educational Purpose...I am not responsibe for your actions...Stay Safe !!! Stay Legal !!!
+## Cresits ::
+### Thanks to Vazzy.... , 
