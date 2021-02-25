@@ -36,5 +36,5 @@
 <img src="https://raw.githubusercontent.com/swagkarna/Hande-Stealer/main/img%20(2).png"></img>
 # Discalimer ::
 ### You this only for educational Purpose...I am not responsibe for your actions...Stay Safe !!! Stay Legal !!!
-## Cresits ::
+## Credits ::
 ### Thanks to Vazzy.... , and Kram.. 
