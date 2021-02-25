@@ -27,3 +27,5 @@
 ### Dont Forget to Change this with your webhook url >>>> https://github.com/swagkarna/Hande-Stealer/blob/fb15385349e7482baa46681216e137b9b745e33b/Hande-stealer.pyw#L27
 
 ## ScreenShots :::
+### Bots Sending Credentials to your Discord Server !!!!
+<img src="https://raw.githubusercontent.com/swagkarna/Hande-Stealer/main/Screenshot%20(58).png"></img>
