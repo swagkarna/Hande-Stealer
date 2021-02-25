@@ -2,7 +2,7 @@
 ## This ia an simple and powerful stealer that steals victim credentials and send to your discord server...
 # Features :
 ## This File  Steals --->
-### 1.Ip address
+### 1. Ip address
 ### 2. Screenshot
 ### 3. Discord token
 ### 4. Mac Address
@@ -12,6 +12,14 @@
 # Requirements....
 ## 1. python 3.8+
 ## 2. pyinstaller
-## 3. Installer any missing module using pip install 'missingmodule'
+## 3. Install any missing module using pip install 'missingmodule'
 
-# 
+# Installation :::
+```
+    pip install pyinstaller==4.0
+    pip install dhooks
+    pip install getmac 
+ ```
+# Compile To Exe 
+## Run compile.bat to convert file to exe
+
