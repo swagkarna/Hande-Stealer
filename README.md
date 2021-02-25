@@ -28,4 +28,8 @@
 
 ## ScreenShots :::
 ### Bots Sending Credentials to your Discord Server !!!!
+<img src="https://raw.githubusercontent.com/swagkarna/Hande-Stealer/main/1.png"></img>
 <img src="https://raw.githubusercontent.com/swagkarna/Hande-Stealer/main/Screenshot%20(58).png"></img>
+<img src="https://raw.githubusercontent.com/swagkarna/Hande-Stealer/main/img%20(2).png"></img>
+# Discalimer ::
+### You this only for educational Purpose...I am not responsibe for your actions...Stay Safe !!! Stay Legal !!!
