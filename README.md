@@ -1,4 +1,4 @@
-# Hande-Stealer
+# Hande-Stealer ::
 ## This ia an simple and powerful stealer that steals victim credentials and send to your discord server...
 ## Features :
 ### This File  Steals --->
