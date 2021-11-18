@@ -9,12 +9,12 @@
 #### 5. System Information 
 ### This Program Run with Admin Privilages and dismantle Windows Defender Security Feature to bypass Windows Defender
 
-## Requirements....
+## Requirements
 ### 1. python 3.8+
 ### 2. pyinstaller
 ### 3. Install any missing module(s) using pip install <whatever you're missing>
 
-## Installation :::
+## Installation
 ```
     pip install pyinstaller==4.0
     pip install dhooks
@@ -26,5 +26,5 @@
 ## Compile To Exe 
 ### Run compile.bat or compile.sh to convert file to exe
 
-## Note :
+## Note
 ### Remember to change the Webhook to your URL
