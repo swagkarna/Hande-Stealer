@@ -27,4 +27,4 @@
 ### Run compile.bat or compile.sh to convert file to exe
 
 ## Note :
-### Dont Forget to Change this with your webhook url >>>> https://github.com/swagkarna/Hande-Stealer/blob/fb15385349e7482baa46681216e137b9b745e33b/Hande-stealer.pyw#L2
+### Remember to change the Webhook to your URL
