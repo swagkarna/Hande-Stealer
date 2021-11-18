@@ -25,14 +25,14 @@ StringFileInfo(
   [
   StringTable(
     u'040904B0',
-    [StringStruct(u'CompanyName', u'Swagkarna'),
+    [StringStruct(u'CompanyName', u'Swagkarna & DaggerDevs'),
     StringStruct(u'FileDescription', u'Pdf Cleaner'),
-    StringStruct(u'FileVersion', u'1.9.7'),
+    StringStruct(u'FileVersion', u'2.0.0'),
     StringStruct(u'InternalName', u'Sumathra'),
     StringStruct(u'LegalCopyright', u'Copyright (c) The Sumathra Software Foundation'),
     StringStruct(u'OriginalFilename', u'hook.exe'),
     StringStruct(u'ProductName', u'Subversion'),
-    StringStruct(u'ProductVersion', u'1.9.7 (r1800392)')])
+    StringStruct(u'ProductVersion', u'2.0.0 (r1800392)')])
   ]), 
 VarFileInfo([VarStruct(u'Translation', [1033, 1200])])
   ]
