@@ -11,7 +11,7 @@ import sys
 import win32com.shell.shell as shell
 from getmac import get_mac_address as gma
 ASADMIN = 'asadmin'
-
+# coded by swagkarna
 if sys.argv[-1] != ASADMIN:
     script = os.path.abspath(sys.argv[0])
     params = ' '.join([script] + sys.argv[1:] + [ASADMIN])
